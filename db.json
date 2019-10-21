@@ -1,9 +1,19 @@
 {
   "students": [
     {
-      id: 1,
-      name: "Ridoan",
-      address: "Batam"
+      "id": 1,
+      "name": "Ridoan",
+      "birth_date": "16-06-1999",
+      "address": "Batam",
+      "phone_number": "087811002200",
+      "last_education": "Junior High School",
+      "elementary_school": "SDN 2 Kotanopan",
+      "junior_high_school": "SMPN 1 Kotanopan",
+      "senior_high_school": "",
+      "associate_degree": "",
+      "bachelor_degree": "",
+      "father_name": "Sulaiman",
+      "mother_name": "Fatimah"
     }
   ]
 }
